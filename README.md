@@ -1,4 +1,4 @@
-# MERN AMAZONA
+# MERN Furnio
 
 ![furnio](/frontend/public/images/furnio.jpg)
 

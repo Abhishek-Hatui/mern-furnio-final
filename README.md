@@ -4,7 +4,7 @@
 
 ## Demo Website
 
-- 👉 Heroku : [https://mern-amazona-app.herokuapp.com](https://mern-amazona-app.herokuapp.com)
+- 👉 Heroku : [https://mern-furnio.herokuapp.com](https://mern-furnio.herokuapp.com)
 
 ## tech stack
 

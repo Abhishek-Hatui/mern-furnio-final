@@ -1,7 +1,7 @@
 {
-  "name": "amazona",
+  "name": "mern-furnio-master",
   "version": "1.0.0",
-  "description": "# Lessons",
+  "description": "# project)",
   "main": "index.js",
   "scripts": {
     "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
@@ -10,12 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/mern-amazona.git"
+    "url": "git+https://github.com/Abhishek-Hatui/mern-furnio-final.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/mern-amazona/issues"
+    "url": "https://github.com/Abhishek-Hatui/mern-furnio-final/issues"
   },
-  "homepage": "https://github.com/basir/mern-amazona#readme"
+  "homepage": "https://github.com/Abhishek-Hatui/mern-furnio-final#readme"
 }

@@ -1,6 +1,6 @@
 # MERN AMAZONA
 
-![amazona](/frontend/public/images/amazona.jpg)
+![furnio](/frontend/public/images/furnio.jpg)
 
 ## Demo Website
 

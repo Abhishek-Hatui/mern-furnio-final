@@ -6,6 +6,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+a{
+  text-decoration: none;
+}
+
 .site-container {
   min-height: 100vh;
 }
@@ -14,7 +19,7 @@ main {
 }
 .btn-primary,
 .btn-outline-primary {
-  background-color: #f0c040;
+  background-color: #52dace;
   color: #000000;
 }
 .products {
